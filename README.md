@@ -1,7 +1,7 @@
-# emerald-theme-mybb
-A beautiful responsive &amp; modern theme for MyBB 1.8 (Documentation included)
+# diamond-bb
+A fork of the Emerald MyBB theme by D&D Team
 
-Demo : https://developement.design/demo/emerald/
+Official theme for the HassioHelp community: https://forum.hassiohelp.eu
 
 Features :
 
@@ -19,12 +19,5 @@ Features :
     Free Support
     And more !
 
-Website : https://developement.design/
-
-Skype : ef.team
-
-Email : business@developement.design (for business only)
-
-For issues : https://developement.design/forum/forumdisplay.php?fid=12 
 
 Leave a star if you like the theme :D
