@@ -1,7 +1,7 @@
 # diamond-bb
 A fork of the Emerald MyBB theme by D&D Team
 
-Official theme for the HassioHelp community: https://forum.hassiohelp.eu
+Official HassioHelp community's theme: https://forum.hassiohelp.eu
 
 Features :
 
